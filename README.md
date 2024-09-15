@@ -1,4 +1,4 @@
-# philosophers-dinner
+# philosophers dinner
 This is a C program that simulates the classic "Philosophers' Dinner" problem using threads and mutexes. The code implements the solution to avoid deadlock and the deadlock condition, using mutexes to represent the chopsticks and a shared variable to indicate which philosophers are currently eating.
 
 ## Contribution
