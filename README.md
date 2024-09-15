@@ -1,4 +1,10 @@
-# jantar-dos-filosofos
-Este é um programa em C que simula o problema clássico do "Jantar dos Filósofos" usando threads e mutexes.
-O código implementa a solução para evitar deadlock e a condição de impasse, utilizando mutexes para representar 
-os hashis e uma variável compartilhada para indicar quais filósofos estão comendo no momento.
+# philosophers-dinner
+This is a C program that simulates the classic "Philosophers' Dinner" problem using threads and mutexes. The code implements the solution to avoid deadlock and the deadlock condition, using mutexes to represent the chopsticks and a shared variable to indicate which philosophers are currently eating.
+
+## Contribution
+
+Feel free to open issues or submit pull requests. All contributions are welcome!
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
